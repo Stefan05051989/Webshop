@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+
+# development properties
+application-dev.properties
+=======
+application-dev.properties 
+>>>>>>> Stashed changes
+=======
+application-dev.properties 
+>>>>>>> Stashed changes
